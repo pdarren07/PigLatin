@@ -1,6 +1,10 @@
 public void setup() 
 {
     String[] lines = {"beast", "dough", "happy", "question", "star", "three", "eagle", "try"};
+    /*String[] lines = {"With heads bared we stand, ", "In tribute to thee, ", 
+                      "Our Alma-Mater Lowell,", "All true to thee we'll be. ", 
+                      "Unfurled red and white, ", "None shall thee decry, ", 
+                      "They name we love,", "Oh Lowell High."};*/
   System.out.println("there are " + lines.length + " lines");
   for (int i = 0 ; i < lines.length; i++) 
   {
